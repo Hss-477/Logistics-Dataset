@@ -9,12 +9,12 @@ The number of parking spots available outside different warehouses varies, and t
 
 1. cargo_info.csv 
 
-   Records the time required for loading cargo.
+   This file records the time required for loading different types of cargo. There are 15 types of cargo in total.
 
 2. warehouse_info.csv  
 
-   Records the number of parking spaces available outside the warehouse and the types of cargo stored inside the warehouse.
+   This file documents the number of parking spots available outside each warehouse and the types of cargo stored inside. There are 50 warehouses in total.
 
 3. queuing_info.csv 
 
-   Records the status changes of trucks arriving at the facility over the course of three months.
+   This file tracks the status changes of trucks arriving at the factory over a three-month period. There are 89,499 truck records for January and February combined, and 30,790 truck records for March.
